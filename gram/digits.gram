@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Digits Grammar for Hello World example
+ */
+
+grammar digits;
+ 
+public <cmd> = ( Funeral for a friend | Queen | Red hot chili pepper | Hours | Tomorrow | One day | Tomorrow | Follow me | Monsters | Recovery | Roses for the dead | Son | Street car | Monkey | All my life | By the way  ) * ;
